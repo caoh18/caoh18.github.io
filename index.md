@@ -1,5 +1,10 @@
 [My Resume](https://github.com/caoh18/caoh18.github.io/blob/master/CV_HanCao.pdf)
-Hi! I'm Han Cao, a senior student at Department of Electronic Engineering, Tsinghua University
+
+Hi! I'm Han Cao, a senior student at Department of Electronic Engineering, Tsinghua University.
+
+I was a visiting student of the [Natural Language Processing group](http://nlp.cs.ucsb.edu/) at UCSB in the summer of 2019, advised by [Prof. William Wang](https://sites.cs.ucsb.edu/~william/). At Tsinghua, I work as an student researcher at the [Data Science and Intelligence Lab](http://fi.ee.tsinghua.edu.cn/), advised by [Prof. Yong Li](http://fi.ee.tsinghua.edu.cn/~liyong/).
+
+I am interested in Data/Text Mining, Information Extraction, Machine Learning and their applications.
 
 ## Welcome to GitHub Pages
 
