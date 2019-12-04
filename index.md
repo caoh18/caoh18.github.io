@@ -6,7 +6,10 @@ I was a visiting student of the [Natural Language Processing group](http://nlp.c
 
 I am interested in Data/Text Mining, Information Extraction, Machine Learning and their applications.
 
-## Welcome to GitHub Pages
+## Education Background
+* Electronic Engineering, Tsinghua University(2016-2020)
+* GPA:3.86/4.0, rank 14/266
+
 
 You can use the [editor on GitHub](https://github.com/caoh18/caoh18.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
