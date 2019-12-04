@@ -1,3 +1,6 @@
+[My Resume](https://github.com/caoh18/caoh18.github.io/blob/master/CV_HanCao.pdf)
+Hi! I'm Han Cao, a senior student at Department of Electronic Engineering, Tsinghua University
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/caoh18/caoh18.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
