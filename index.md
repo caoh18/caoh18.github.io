@@ -1,4 +1,4 @@
-[My Resume](https://github.com/caoh18/caoh18.github.io/blob/master/CV_HanCao.pdf)
+[My Resume](https://github.com/caoh18/caoh18.github.io/blob/master/HanCao_CV.pdf)
 
 Hi! I'm Han Cao, a senior student at Department of Electronic Engineering, Tsinghua University.
 
