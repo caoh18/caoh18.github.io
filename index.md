@@ -40,8 +40,8 @@ The course work of Introduction to Auditory-visual Information System
 Programming: Proficient in C/C++, Python, MATLAB, Linux, Pytorch, Spark, Hadoop
 
 ### Honors & Awards
-2019 National Inspirational Scholarship (TOP10%)   
-2018 National Inspirational Scholarship  
+2019 National Encouragement Scholarship (TOP10%)   
+2018 National Encouragement Scholarship  
 2017 Friend of Tsinghua University—Huang YiCong Couple Scholarship  
 
 
